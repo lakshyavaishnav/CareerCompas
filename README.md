@@ -1,1 +1,1 @@
-# CareerCompas
+# CareerCompass
